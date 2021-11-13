@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close_big</file>
+        <file>icons/import</file>
+        <file>icons/export</file>
+        <file>icons/menu</file>
+        <file>icons/help</file>
+        <file>icons/minimize</file>
+        <file>icons/plus</file>
+        <file>icons/refresh</file>
+        <file>icons/search</file>
+        <file>icons/setting</file>
+        <file>icons/info</file>
+    </qresource>
+</RCC>

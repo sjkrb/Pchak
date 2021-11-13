@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyMenu.qml</file>
+        <file>MenuBottons.qml</file>
+        <file>Topbar.qml</file>
+        <file>JSONListModel.qml</file>
+        <file>jsonpath.js</file>
+        <file>MainView.qml</file>
+        <file>SearchView.qml</file>
+        <file>Cart.qml</file>
+        <file>MySearchBar.qml</file>
+        <file>PodcastPage.qml</file>
+        <file>RoundedImage.qml</file>
+        <file>Podepisoderect.qml</file>
+        <file>Playbar.qml</file>
+        <file>database.json</file>
+    </qresource>
+</RCC>

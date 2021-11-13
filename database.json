@@ -1,0 +1,26 @@
+{
+    "listened": {
+    },
+    "podcasts": [
+        {
+            "address": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0a/28/8b/0a288b04-5c57-7840-e046-f3be66a5ff8b/mza_6357702342755130546.jpg/600x600bb.jpg",
+            "name": "Hidden Brain"
+        },
+        {
+            "address": "https://channelb.libsyn.com/rss",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/68/c7/9c/68c79c99-8396-7782-74da-ab07488a5903/mza_8769196099742095011.jpg/600x600bb.jpg",
+            "name": "ChannelB پادکست فارسی"
+        },
+        {
+            "address": "https://feeds.redcircle.com/cd4c375c-2a1d-4041-a5d2-3d817b216cd4",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/92/27/87/922787b0-492f-099d-f235-abb323c45ccd/mza_17294147947467353999.jpg/600x600bb.jpg",
+            "name": "رواق / Ravaq"
+        },
+        {
+            "address": "http://rss.castbox.fm/everest/1f4e2c0cae1740f5bff605527db43b59.xml",
+            "image": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/28/bf/aa/28bfaa72-08f4-81da-3c69-4d05112133a5/mza_6354265731875843274.jpg/600x600bb.jpg",
+            "name": "Radio Tragedy رادیو تراژدی"
+        }
+    ]
+}

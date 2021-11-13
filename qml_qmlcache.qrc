@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="MyMenu.qml">MyMenu.qml</file>
+        <file alias="MenuBottons.qml">MenuBottons.qml</file>
+        <file alias="Topbar.qml">Topbar.qml</file>
+        <file alias="JSONListModel.qml">JSONListModel.qml</file>
+        <file alias="jsonpath.js">jsonpath.js</file>
+        <file alias="MainView.qml">MainView.qml</file>
+        <file alias="SearchView.qml">SearchView.qml</file>
+        <file alias="Cart.qml">Cart.qml</file>
+        <file alias="MySearchBar.qml">MySearchBar.qml</file>
+        <file alias="PodcastPage.qml">PodcastPage.qml</file>
+        <file alias="RoundedImage.qml">RoundedImage.qml</file>
+        <file alias="Podepisoderect.qml">Podepisoderect.qml</file>
+        <file alias="Playbar.qml">Playbar.qml</file>
+    </qresource>
+</RCC>
